@@ -1,24 +1,5 @@
 # todos
+Vue.js 로 TodoList를 만들었습니다.
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Netlify에 배포되었습니다. 
+https://vue-mytodo.netlify.app
